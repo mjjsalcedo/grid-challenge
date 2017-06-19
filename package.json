@@ -1,0 +1,15 @@
+{
+  "name": "npm-init-morning-challenges",
+  "version": "1.0.0",
+  "description": "This a challenge about grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "grid",
+    "challenge"
+  ],
+  "author": "Mariel Salcedo",
+  "license": "ISC"
+}
